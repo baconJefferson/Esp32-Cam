@@ -9,8 +9,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "Shahar IPhone";
-const char *password = "Hippo!!11";
+const char *ssid = "*******";
+const char *password = "*******";
 
 void startCameraServer();
 void setupLedFlash();
